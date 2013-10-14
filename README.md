@@ -6,6 +6,6 @@ Silly scifi novel titles
 Possible ways to expand this:
 =============================
 
-# Add options for the reader to ask for biology or geology phrases
-# Add real phrases and make a game challenging the reader to tell true from fake
-# Grab author names and use Queneau assembly to offer mashed-up bylines as well, e.g., "Optical Reluctance by Vandana Bujold"
+1. Add options for the reader to ask for biology or geology phrases
+1. Add real phrases and make a game challenging the reader to tell true from fake
+1. Grab author names and use Queneau assembly to offer mashed-up bylines as well, e.g., "Optical Reluctance by Vandana Bujold"
