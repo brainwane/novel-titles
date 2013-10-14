@@ -1,0 +1,4 @@
+body           { font-family: sans-serif; background: #aba; }
+h1             { font-family: 'Georgia', serif; margin: 0;}
+.page          { margin: 2em auto; width: 35em; border: 5px solid #bbb;
+                  padding: 0.8em; background: white; }

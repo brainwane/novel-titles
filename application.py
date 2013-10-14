@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Copyright 2013 Sumana Harihareswara, GPL, thanks to https://github.com/bev-a-tron/MyFlaskTutorial
 
 # This should use the Requests library to grab a list of titles of wiki pages in the Electromagnetism
 # category, filter out everything that isn't a two-word title, make sets out of the first and second
